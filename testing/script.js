@@ -69,4 +69,11 @@
 console.log("Hello world!");
 let result = 0
 let a = b+c
+
+function calc (a, b, sign) {
+    let result
+    if (sign == "+") result = a+b
+    return result
+
+}
     
