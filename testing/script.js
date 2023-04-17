@@ -67,4 +67,6 @@
 
 
 console.log("Hello world!");
+let result = 0
+let a = b+c
     
